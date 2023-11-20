@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"by.oleskevich","l":"Calculator"},{"p":"by.oleskevich","l":"ConsolePrinter"},{"p":"by.oleskevich","l":"Main"}];updateSearchResults();
